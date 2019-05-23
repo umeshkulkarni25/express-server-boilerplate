@@ -2,3 +2,10 @@ node_modules
 
 .hmr
 prod
+
+node_modules
+
+.env.dev
+.env.prod
+
+.vscode
